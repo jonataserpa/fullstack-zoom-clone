@@ -1,4 +1,9 @@
 <div align="center">
+  <h3 align="center">A Zoom Clone</h3>
+
+   <div align="center">
+     Build this project Next.js
+   </div>
   <br />
   <a href="https://raw.githubusercontent.com/jonataserpa/images/main/zoom-clone.png" target="_blank">
       <img src="https://raw.githubusercontent.com/jonataserpa/images/main/zoom-clone.png" alt="Project Banner">
@@ -10,12 +15,6 @@
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
-  
-  <h3 align="center">A Zoom Clone</h3>
-
-   <div align="center">
-     Build this project Next.js
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -46,7 +45,6 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 ## <a name="features">🔋 Features</a>
 
-
 👉 **Authentication**: Implements authentication and authorization features using Clerk, allowing users to securely log in via social sign-on or traditional email and password methods, while ensuring appropriate access levels and permissions within the platform.
 
 👉 **New Meeting**: Quickly start a new meeting, configuring camera and microphone settings before joining.
@@ -69,7 +67,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Responsive Design**: Follows responsive design principles to ensure optimal user experience across devices, adapting seamlessly to different screen sizes and resolutions.
 
-and many more, including code architecture and reusability. 
+and many more, including code architecture and reusability.
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
